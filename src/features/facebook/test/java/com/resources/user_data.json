@@ -1,0 +1,12 @@
+{
+  "user1": {
+    "id": "user1_id_here",
+    "name": "Facebook One",
+    "email": "user1@example.com"
+  },
+  "user2": {
+    "id": "user2_id_here",
+    "name": "Facebook Two",
+    "email": "user2@example.com"
+  }
+}

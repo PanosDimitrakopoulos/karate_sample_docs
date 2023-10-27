@@ -1,0 +1,12 @@
+{
+  "post1": {
+    "message": "Hello, Tester!",
+    "url": "https://example.com/photo1.jpg",
+    "caption": "Testing 101"
+  },
+  "post2": {
+    "message": "Another post for Tester",
+    "url": "https://example.com/photo2.jpg",
+    "caption": "Testing 102"
+  }
+}
